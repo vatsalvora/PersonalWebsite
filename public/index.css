@@ -12,13 +12,22 @@ h2
 {
 	color: SkyBlue;
 }
+.container-fluid
+{
+	background-color: AliceBlue;
+}
 .badge
 {
 	display:inline-block;
 }
-div
+#Summary,#Education,#Projects,#Certifications,#Experience
 {
-	margin-bottom:10px;
+	margin-bottom:25px;
+	background-color: white;
+}
+.job,.proj,.edu
+{
+	margin-bottom:25px;
 }
 span
 {

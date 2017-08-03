@@ -9,7 +9,7 @@ export class Projects extends React.Component{
 			{this.props.data.map(function(proj, index)
 				{
 					return (
-						<div key = {index}>
+						<div key = {index} className="proj">
 						<a href={proj.link}><h2>{proj.title}</h2></a>
 						<Tag data={proj.tags}/>
 						<h4>{proj.desc}</h4>

@@ -9,7 +9,7 @@ export class Experience extends React.Component{
 			{this.props.data.map(function(job, index)
 			{
 				return (
-					<div key = {index}>
+					<div key = {index} className="job">
 					<h2>{job.title}</h2>
 					<h3>{job.company}</h3>
 					<h3>{job.dates}</h3>
