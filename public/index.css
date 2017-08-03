@@ -1,0 +1,27 @@
+.vertical{
+	background-color: SkyBlue;
+	color: white;
+	text-align: center;
+}
+h1
+{
+	color: DeepSkyBlue;
+}
+
+h2
+{
+	color: SkyBlue;
+}
+.badge
+{
+	display:inline-block;
+}
+div
+{
+	margin-bottom:10px;
+}
+span
+{
+	margin-right: 5px;
+	margin-bottom: 5px;
+}
