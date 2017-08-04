@@ -14,7 +14,7 @@
 		{
 			"company":"CGS Infotech Solutions",
 			"location":"Mumbai, India",
-			"title":"Technology Consultant (Part Time)",
+			"title":"Technology Consultant",
 			"dates":"July 2015 - June 2017",
 			"desc":" Worked on the Automated Interactive Managed Customer Assistance & Response (AIM-CAR) system, a voice-activated customer response app that provides real time conversation with customers. Developed the system using Node.js, Amazon Lambda, and the Alexa Skills Kit. Developed a system for live videography using a 360 degree camera and integrate Virtual Reality content into websites, social media, iOS and Android applications. Developed applications on the iOS and Android platforms. Web development with Javascript, PHP, and HTML5."
 		},
@@ -95,6 +95,6 @@
 			"dates":"07/2017"
 		}
 	],
-	"Skills":["AWS", "Angular.js","React.js","Java","J2EE","JavaScript","Python","PHP","Oracle","Teradata","MongoDB","MySQL","Storm/Trident","Kafka","Matlab","R","SQL","Git","Maven","Node.js","Android","Amazon Lambda","Facebook API","Google API"],
+	"Skills":["AWS", "Angular.js","React.js","Spring","Java","J2EE","JavaScript","Python","PHP","Oracle","Teradata","MongoDB","MySQL","Storm/Trident","Kafka","Matlab","R","SQL","Git","Maven","Node.js","Android","Amazon Lambda","Facebook API","Google API"],
 	"Personal":["US Citizen","Reading","Biking","Learning","New Technology","Community/Cultural Work"]
 }
