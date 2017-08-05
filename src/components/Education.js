@@ -9,7 +9,7 @@ export class Education extends React.Component{
 			{this.props.data.map(function(learn, index)
 			{
 				return (
-					<div key = {index} className="edu">
+					<div key = {index} className="desc">
 					<h2>{learn.degree}</h2>
 					<h3>{learn.institution}</h3>
 					<h3>{learn.dates}</h3>

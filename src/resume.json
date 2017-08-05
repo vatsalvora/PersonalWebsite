@@ -5,7 +5,7 @@
 		"desc":"AWS Certified Developer - Associate | Full Stack Developer",
 		"address":"10275 Estuary Drive Tampa, FL 33647",
 		"number":"(813) 388-0312",
-		"email":"vatalajvora@gmail.com",
+		"email":"vatsalajvora@gmail.com",
 		"linkedin":"https://www.linkedin.com/in/vatsal-vora/",
 		"github":"https://www.github.com/vatsalvora"
 	},
@@ -92,7 +92,7 @@
 	"Certifications":[
 		{
 			"title":"AWS Certified Developer - Associate",
-			"dates":"07/2017"
+			"dates":"July 2017"
 		}
 	],
 	"Skills":["AWS", "Angular.js","React.js","Spring","Java","J2EE","JavaScript","Python","PHP","Oracle","Teradata","MongoDB","MySQL","Storm/Trident","Kafka","Matlab","R","SQL","Git","Maven","Node.js","Android","Amazon Lambda","Facebook API","Google API"],

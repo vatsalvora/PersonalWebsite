@@ -1,7 +1,14 @@
 .vertical{
-	background-color: SkyBlue;
-	color: white;
+	background-color: LightSkyBlue;
 	text-align: center;
+}
+.navbar-light
+{
+	background-color: LightSkyBlue;
+}
+.vertical h3
+{
+	color: white;
 }
 h1
 {
@@ -16,21 +23,26 @@ h2
 {
 	background-color: AliceBlue;
 }
-.badge
+.tags
 {
 	display:inline-block;
-}
-#Summary,#Education,#Projects,#Certifications,#Experience
-{
-	margin-bottom:25px;
-	background-color: white;
-}
-.job,.proj,.edu
-{
-	margin-bottom:25px;
-}
-span
-{
 	margin-right: 5px;
-	margin-bottom: 5px;
+}
+#Summary,#Certifications
+{
+	margin-bottom:25px;
+}
+.desc
+{
+	background-color: LightSkyBlue;
+	margin-bottom:25px;
+}
+.desc h2
+{
+	color: White;
+}
+.skills
+{
+	display: inline-block;
+	margin-right: 5px;
 }

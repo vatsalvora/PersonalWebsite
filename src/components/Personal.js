@@ -8,9 +8,7 @@ export class Personal extends React.Component{
 				{this.props.data.map(function(elem, index)
 					{
 						return (
-							<span key = {index} className="badge badge-pill badge-primary">
-							<h5>{elem}</h5>
-							</span>);
+							<h5 key={index} className="tags">{elem}</h5>);
 				})}
 			</div>
 		);
