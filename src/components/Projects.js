@@ -13,7 +13,10 @@ export class Projects extends React.Component{
 						<h2>{proj.title}</h2>
 						<Tag data={proj.tags}/>
 						<h4>{proj.desc}</h4>
-						<a href={proj.link} className="btn btn-primary">Go to GitHub Repo</a>
+						{ (proj.link==="")
+							? null
+							: <a href={proj.link} className="btn btn-primary"><b>Go to GitHub Repo</b></a>
+						}
 						</div>
 					);
 				})

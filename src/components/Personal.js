@@ -4,11 +4,11 @@ export class Personal extends React.Component{
 	render(){
 		return (
 			<div>
-			<h3>Personal</h3>
+			<h1>Personal</h1>
 				{this.props.data.map(function(elem, index)
 					{
 						return (
-							<h5 key={index} className="tags">{elem}</h5>);
+							<h3 key={index} className="tags desc">{elem}</h3>);
 				})}
 			</div>
 		);

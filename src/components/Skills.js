@@ -5,11 +5,11 @@ export class Skills extends React.Component{
 	render(){
 		return (
 			<div>
-			<h3>Skills</h3>
+			<h1>Skills</h1>
 			{this.props.data.map(function(elem, index)
 					{
 						return (
-							<h5 key={index} className="skills">{elem}</h5>                             
+							<h3 key={index} className="tags desc">{elem}</h3>                             
 							);
 					})
 			}
